@@ -952,7 +952,7 @@ about:
   banner_mask_alpha: 0.65
   avatar: https://cdn.silente.top/img/202306251221804.jpg
   name: "SilentE"
-  intro: "21级本科生，在 @Merak, @Dubhe 打工，Web 方向。"
+  intro: "21级本科生，CTF Web 方向。"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:

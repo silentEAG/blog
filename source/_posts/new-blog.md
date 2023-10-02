@@ -2,6 +2,7 @@
 title: New blog, New start
 categories:
   - Life
+date: 2023-06-26 11:46:00
 excerpt: 又是一个新的博客？
 ---
 

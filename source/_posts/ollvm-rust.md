@@ -7,6 +7,7 @@ tags:
   - Rust
   - OLLVM
   - Obfuscation
+excerpt: 虽然搞了很久，但这次终于感觉接近理想状态了
 ---
 
 之前尝试过一次用 hikari 的 patch 去编译 rust 工具链，但是它似乎一编译大一点的 proj 就卡死了 hh。所以还是尝试去用原版的 ollvm 来搞一搞。
